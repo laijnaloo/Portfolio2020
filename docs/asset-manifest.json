@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d12bafae.chunk.css",
-    "main.js": "/static/js/main.4908cc7c.chunk.js",
-    "main.js.map": "/static/js/main.4908cc7c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2b20a0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2b20a0b.js.map",
-    "static/js/2.5152a6dd.chunk.js": "/static/js/2.5152a6dd.chunk.js",
-    "static/js/2.5152a6dd.chunk.js.map": "/static/js/2.5152a6dd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.44db2e6ebfa62039e2c148a8a47a0e99.js": "/precache-manifest.44db2e6ebfa62039e2c148a8a47a0e99.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d12bafae.chunk.css.map": "/static/css/main.d12bafae.chunk.css.map",
-    "static/js/2.5152a6dd.chunk.js.LICENSE": "/static/js/2.5152a6dd.chunk.js.LICENSE",
-    "static/media/Einride.jpg": "/static/media/Einride.05ee28b8.jpg",
-    "static/media/index.scss": "/static/media/Roboto-Regular.11eabca2.ttf",
-    "static/media/Plants.png": "/static/media/Plants.90a4d9ca.png",
-    "static/media/projects.scss": "/static/media/bron.98ea4655.jpg",
-    "static/media/nn.png": "/static/media/nn.afc51a05.png"
+    "main.css": "/Portfolio2020/static/css/main.218821bd.chunk.css",
+    "main.js": "/Portfolio2020/static/js/main.d4cfeea2.chunk.js",
+    "main.js.map": "/Portfolio2020/static/js/main.d4cfeea2.chunk.js.map",
+    "runtime-main.js": "/Portfolio2020/static/js/runtime-main.1d623d45.js",
+    "runtime-main.js.map": "/Portfolio2020/static/js/runtime-main.1d623d45.js.map",
+    "static/js/2.5152a6dd.chunk.js": "/Portfolio2020/static/js/2.5152a6dd.chunk.js",
+    "static/js/2.5152a6dd.chunk.js.map": "/Portfolio2020/static/js/2.5152a6dd.chunk.js.map",
+    "index.html": "/Portfolio2020/index.html",
+    "precache-manifest.cb4614646662ec0b543e0d718d587dbd.js": "/Portfolio2020/precache-manifest.cb4614646662ec0b543e0d718d587dbd.js",
+    "service-worker.js": "/Portfolio2020/service-worker.js",
+    "static/css/main.218821bd.chunk.css.map": "/Portfolio2020/static/css/main.218821bd.chunk.css.map",
+    "static/js/2.5152a6dd.chunk.js.LICENSE": "/Portfolio2020/static/js/2.5152a6dd.chunk.js.LICENSE",
+    "static/media/Einride.jpg": "/Portfolio2020/static/media/Einride.05ee28b8.jpg",
+    "static/media/index.scss": "/Portfolio2020/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/Plants.png": "/Portfolio2020/static/media/Plants.90a4d9ca.png",
+    "static/media/projects.scss": "/Portfolio2020/static/media/bron.98ea4655.jpg",
+    "static/media/nn.png": "/Portfolio2020/static/media/nn.afc51a05.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2b20a0b.js",
+    "static/js/runtime-main.1d623d45.js",
     "static/js/2.5152a6dd.chunk.js",
-    "static/css/main.d12bafae.chunk.css",
-    "static/js/main.4908cc7c.chunk.js"
+    "static/css/main.218821bd.chunk.css",
+    "static/js/main.d4cfeea2.chunk.js"
   ]
 }
